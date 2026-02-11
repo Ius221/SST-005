@@ -1,5 +1,5 @@
 This is the main file for the fifth chapter of the book. It contains the main content and examples for this chapter. Make sure to read through it carefully and follow along with the examples to fully understand the concepts being discussed.
 
 Currently we are working on purple mode
-
 and the work is still ongoing.
+Currently we are in the process of adding more examples and explanations to the purple mode section. We want to make sure that we cover all the important aspects of purple mode and provide clear instructions on how to use it effectively in your projects.
