@@ -7,4 +7,5 @@ Currently we are in the process of adding more examples and explanations to the 
 purple mode DONE.
 Black mode started
 
-One line edited
+first line edited
+second line edited
